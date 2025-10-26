@@ -1,9 +1,11 @@
 {
-    "name": "topbarplus",
+    "name": "SLVM",
     "tree": {
         "$className": "DataModel",
 
-        "ServerStorage": {
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+
             "SLVM": {
                 "$path": "src"
             }
