@@ -1,11 +1,11 @@
 [package]
 name = "shadowdaughter/slvm"
 description = "A Secure Lua Virtual Machine based on FiOne"
-version = "1.0.0"
+version = "1.0.1"
 license = "GPL-3.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "server"
 exclude = ["**"]
-include = ["src", "default.project.json", "wally.toml", "LICENSE"]
+include = ["src", "src/**", "default.project.json", "wally.toml", "LICENSE"]
 
 [dependencies]
