@@ -1,0 +1,12 @@
+{
+    "name": "topbarplus",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerStorage": {
+            "SLVM": {
+                "$path": "src"
+            }
+        }
+    }
+}

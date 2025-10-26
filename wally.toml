@@ -1,0 +1,11 @@
+[package]
+name = "hakai/slvm"
+version = "0.1.0"
+description = "A Secure Lua Virtual Machine based on FiOne"
+licene = "GPL-3.0-only"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+exclude = ["**"]
+include = ["src", "default.project.json", "LICENSE"]
+
+[dependencies]

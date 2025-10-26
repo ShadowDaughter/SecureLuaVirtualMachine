@@ -1,0 +1,12 @@
+## Editor Files
+/.vscode
+
+# Lock files
+/*.lock
+
+# Rojo files
+/sourcemap.json
+/*.rbxl
+/*.rbxlx
+/*.rbxm
+/*.rbxmx
